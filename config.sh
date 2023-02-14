@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.1"
+export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://github.com/eun-Dumpfest/twrp_xiaomi_fog -b twrp-11"
 
 export DEVICE="fog"
